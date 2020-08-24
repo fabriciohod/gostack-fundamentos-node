@@ -1,3 +1,4 @@
 {
-  "ignore": ["src/__tests__"]
+  "ignore": ["src/__tests__"],
+  "notify": false
 }
